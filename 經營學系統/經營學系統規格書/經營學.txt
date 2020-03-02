@@ -1,0 +1,7 @@
+人事VIEW檔    HBV_PERSON_1
+單位資料檔    HAT_DEDPTFIL
+經營學座位檔  HTT_SEAT
+經營學缺席檔  HTT_ABSENT
+出國記錄VIEW檔
+請假單檔      HCT_ASKFREE
+職種代碼檔    HBT_CLASS
